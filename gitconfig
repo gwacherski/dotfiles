@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = 
-	name = sh -c \"$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)\"
+	email = gersonwacherski@gmail.com
+	name = Gerson
